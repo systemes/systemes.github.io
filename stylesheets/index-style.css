@@ -1,34 +1,3 @@
-/* -------------------------------- 
-
-Primary style
-
--------------------------------- */
-*, *::after, *::before {
-  box-sizing: border-box;
-}
-
-html {
-  font-size: 62.5%;
-}
-
-body {
-  font-size: 1.6rem;
-  color: #343642;
-  background-color: #ffffff;
-}
-
-a {
-  color: #982b3c;
-  text-decoration: none;
-}
-
-button {
-  cursor: pointer;
-  border: none;
-  background-color: transparent;
-  outline: none;
-  font-size: 1.6rem;
-}
 
 /* -------------------------------- 
 
