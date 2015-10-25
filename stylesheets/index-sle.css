@@ -84,14 +84,14 @@ section.parallax h1 {
 	Parralax blocks
 **************************************/
 section.parallax.parallax-1 {
-	background-image: url("../img/image1.jpg");
+	background-image: url("http://dreamhill.github.io/Public/remoteimg/powerimg.jpg");
 	background-position: 100% 100%;
 }
 
 section.parallax.parallax-2 {
-	background-image: url("../img/image2.jpg");
+	background-image: url("http://dreamhill.github.io/Public/remoteimg/powerimg2.jpg");
 }
 
 section.parallax.parallax-3 {
-	background-image: url("../img/image3.jpg");
+	background-image: url("http://dreamhill.github.io/Public/remoteimg/powerimg3.jpg");
 }
